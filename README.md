@@ -8,7 +8,7 @@
 
 
 ## **Who am I?**  
--  🌱 Data Analyst, getting specialized in the **marketing** and **sports** world, from football, tennis to esports.  
+-  🌱 Data Analyst, getting specialized in the **marketing**, **sports world**, **finance** and wherever data can be of help  
   
 
 - 👩‍💻 I am currently working in the development of personal projects and updating them in my profile: [Github](https://github.com/AgosBal)  
@@ -102,7 +102,7 @@
 
 
 ## **¿Quién soy?**  
--  🌱 Data Analyst, especializandome en el mundo del **marketing** y el **deporte**, desde el fútbol, al tennis a los esports.  
+-  🌱 Data Analyst, especializandome en el mundo del **marketing**, **deporte**, **finanzas** y dónde sea que los datos sean útiles.  
   
 
 - 👩‍💻 Actualmente trabajo en el desarrollo de proyectos personales, que mantengo actualizados en mi perfil de [Github](https://github.com/AgosBal)  
